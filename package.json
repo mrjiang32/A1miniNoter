@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "commander": "^14.0.0",
+    "midi-file": "^1.2.4"
+  },
+  "type": "module"
+}
